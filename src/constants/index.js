@@ -1,0 +1,1 @@
+export const SEARCH_PLACEHOLDER = ["fashion", "books", "education", "social media"]
